@@ -3,7 +3,7 @@
 
 ---
 
-## 👨💻 About Me  
+## 💻 About Me  
 I'm a passionate Full-Stack Developer who enjoys building modern, high-performance Web Applications. I love working with **JavaScript**, **React**, and **Node.js**, and I'm always exploring new tools to improve my workflow.  
 Currently, I'm focused on expanding my knowledge in **GraphQL** and **MySQL** while working on exciting real-world projects. Feel free to reach out if you want to talk about **Web Development**, open-source, or cool tech ideas!
 
